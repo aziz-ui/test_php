@@ -34,4 +34,5 @@ echo $animal3 . ' - ' . $animal4;
 echo '<br>';
 
 $animal4 = 'Giraffe';
+echo $animal3 . ' - ' . $animal4;
 ?>
