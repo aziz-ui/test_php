@@ -12,6 +12,10 @@ $heroInfo = array(
 
 );
 
-print_r($heroInfo);
+echo $heroInfo['name'];
+
+echo '<br>';
+
+echo $heroInfo['superHeroName'];
 
 ?>
