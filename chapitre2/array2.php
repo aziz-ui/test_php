@@ -11,11 +11,14 @@ $heroInfo = array(
     'creator' => 'Stan Lee'
 
 );
+$heroInfo['publisher'] = 'Marvel Comics';
 
 echo $heroInfo['name'];
 
 echo '<br>';
 
 echo $heroInfo['superheroName'];
+
+print_r($heroInfo);
 
 ?>
