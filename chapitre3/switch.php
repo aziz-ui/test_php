@@ -1,5 +1,5 @@
 <?php
-  $n=2.5;
+  $n='2.5';
 
   switch (gettype($n)) {
     case 'integer':
