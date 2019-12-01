@@ -9,4 +9,6 @@ if ("Sunday" === date("l")) {
         echo "Get ready and go to the office";
 
 }
+
+echo date();
 ?>
