@@ -4,7 +4,7 @@ $str = 'Your order total is: ';
 
 $order = 20;
 
-$additional = 5;
+$additional = 10;
 
 $orderTotal = 0;
 
