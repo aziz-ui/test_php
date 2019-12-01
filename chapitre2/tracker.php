@@ -13,7 +13,7 @@ echo $heigthsquare;
 
 $bmi = $weightKg / $heigthsquare;
 echo '<br>';
-echo $bmi;
+echo 'Hello '.$name.',your bmi is: '.$bmi;
 
 
  ?>
