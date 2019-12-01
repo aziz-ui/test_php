@@ -30,7 +30,7 @@
      print_r($heroInfo);
 
      echo '<pre>';
-     echo 'The weapon of choice for ' . $heroInfo[3]['heroName'] . ' is ' . $heroInfo[3]['weapon'];
+     echo 'The weapon of choice for ' . $heroInfo[1]['heroName'] . ' is ' . $heroInfo[1]['weapon'];
 
      echo '<br>';
 
