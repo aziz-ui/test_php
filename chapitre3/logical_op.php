@@ -2,6 +2,6 @@
 
 $a=false or true;
 
-echo $a
+var_dump($a);
 
  ?>
