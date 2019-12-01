@@ -1,5 +1,5 @@
 <?php
-$number1 = 3;
+$number1 = 9;
 
 $number2 = 5;
 
