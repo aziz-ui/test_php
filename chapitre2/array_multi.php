@@ -24,6 +24,7 @@
          'weapon' => 'Mjolnir'
 
      ],
+   ];
      echo '<pre>';
 
      print_r($heroInfo);
