@@ -10,5 +10,5 @@ if ("Sunday" === date("l")) {
 
 }
 
-echo date("2");
+echo date("l");
 ?>
