@@ -1,13 +1,13 @@
 <?php
 
-function number(int $int)
+$x = "13.3333";
 
-{
+var_dump($x);
 
-    echo "the number is: $int";
+echo "<br>";
 
-};
+$y = (float) $x;
 
-number(1);
+var_dump($y);
 
 ?>
