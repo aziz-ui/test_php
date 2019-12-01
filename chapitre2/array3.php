@@ -8,7 +8,7 @@ $people['Laura'] = 'Senior Software Architect';
 
 $people['Jane'] = 'Project Manager';
 
-$people['Mary'] = 'Software Architect;
+$people['Mary'] = 'Software Architect';
 
 
 print_r($people);
