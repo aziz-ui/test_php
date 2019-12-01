@@ -10,7 +10,6 @@ $people['Jane'] = 'Project Manager';
 
 $people['Mary'] = 'Software Architect;
 
-//display the contents of $people
 
 print_r($people);
 
