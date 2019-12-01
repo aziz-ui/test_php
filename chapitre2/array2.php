@@ -16,6 +16,6 @@ echo $heroInfo['name'];
 
 echo '<br>';
 
-echo $heroInfo['superHeroName'];
+echo $heroInfo['superheroName'];
 
 ?>
