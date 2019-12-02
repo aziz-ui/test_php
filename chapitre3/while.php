@@ -1,9 +1,9 @@
 <?php
   $count = 1;
   while ($count <= 10) {
-    echo "This will be printed : ".$count.PHP_EOL;
+    echo "This will be printed : ".$count."\r\n";
     $count++;
-    
+
   }
 
  ?>
