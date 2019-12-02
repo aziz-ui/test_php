@@ -3,6 +3,7 @@
   while ($count <= 10) {
     echo "This will be printed : ".$count.PHP_EOL;
     $count++;
+    
   }
 
  ?>
