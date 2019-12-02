@@ -3,7 +3,12 @@
   $subjects =  ["Mathematics", "Computer Programming", "Business English", "Graph Theory"];
   foreach ($professions as $profession) {
 
-        echo "The Profession is $profession. " . PHP_EOL;
-
+    echo "The Profession is $profession. " . PHP_EOL;
+    if ($profession === 'Teacher') {
+      foreach ($subjects as $name ) {
+        echo "$name".PHP_EOL;
+        // code...
+      }
+    }
 }
  ?>
